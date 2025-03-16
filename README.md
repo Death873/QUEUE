@@ -1,1 +1,1 @@
-Hello Friends, In this Repository i have added code of Linear Queue,Circular Queue and Implementation of Queue with Linked List. All the programms are in C language
+Hello Friends, In this Repository i have added code of Linear Queue,Circular Queue, Implementation of Queue with Linked List, Input Restricted Queue and Output Restricted Queue. All the programms are in C language
